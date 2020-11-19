@@ -9,5 +9,3 @@ Why am I using vim syntax here? That's the only bit that is actually confusing m
 ## Local Development
 
 1. Open index.html in your browser or whatever
-
-### Sub-Subheader?
